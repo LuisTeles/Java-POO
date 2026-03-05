@@ -1,4 +1,4 @@
-package Ex01to03;
+package Ex01to04;
 
 public class Main {
     public static void main(String[] args) {
